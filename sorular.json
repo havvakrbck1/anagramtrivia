@@ -1,0 +1,213 @@
+[
+    {
+      "kategori": "Genel Kültür",
+      "soru": "Dünyanın en kalabalık ülkesi hangisidir?",
+      "cevap": "Çin"
+    },
+    {
+      "kategori": "Genel Kültür",
+      "soru": "Ay'da yürüyen ilk insan kimdir?",
+      "cevap": "Armstrong"
+    },
+    {
+      "kategori": "Genel Kültür",
+      "soru": "Türkiye'nin başkenti neresidir?",
+      "cevap": "Ankara"
+    },
+    {
+      "kategori": "Genel Kültür",
+      "soru": "İlk modern Olimpiyatlar hangi yılda yapılmıştır?",
+      "cevap": "1896"
+    },
+    {
+      "kategori": "Bilim",
+      "soru": "Suyun kimyasal formülü nedir?",
+      "cevap": "H2O"
+    },
+    {
+      "kategori": "Bilim",
+      "soru": "Güneş sistemindeki en büyük gezegen hangisidir?",
+      "cevap": "Jüpiter"
+    },
+    {
+      "kategori": "Bilim",
+      "soru": "İnsan DNA'sında kaç kromozom bulunur?",
+      "cevap": "46"
+    },
+    {
+      "kategori": "Bilim",
+      "soru": "Fotosentez sırasında salınan gaz hangisidir?",
+      "cevap": "Oksijen"
+    },
+    {
+      "kategori": "Bilim",
+      "soru": "İnsan vücudundaki en büyük organ hangisidir?",
+      "cevap": "Deri"
+    },
+    {
+      "kategori": "Tarih",
+      "soru": "İkinci Dünya Savaşı hangi yıl sona erdi?",
+      "cevap": "1945"
+    },
+    {
+      "kategori": "Tarih",
+      "soru": "Mustafa Kemal Atatürk hangi yıl doğmuştur?",
+      "cevap": "1881"
+    },
+    {
+      "kategori": "Tarih",
+      "soru": "Osmanlı İmparatorluğu ne zaman yıkıldı?",
+      "cevap": "1922"
+    },
+    {
+      "kategori": "Tarih",
+      "soru": "Fransız Devrimi hangi yılda başladı?",
+      "cevap": "1789"
+    },
+    {
+      "kategori": "Coğrafya",
+      "soru": "Avrupa kıtasının en büyük ülkesi hangisidir?",
+      "cevap": "Rusya"
+    },
+    {
+      "kategori": "Coğrafya",
+      "soru": "Nil Nehri hangi kıtadadır?",
+      "cevap": "Afrika"
+    },
+    {
+      "kategori": "Coğrafya",
+      "soru": "Everest Dağı hangi ülkede bulunur?",
+      "cevap": "Nepal"
+    },
+    {
+      "kategori": "Coğrafya",
+      "soru": "Amazon Nehri hangi kıtadadır?",
+      "cevap": "Güney Amerika"
+    },
+    {
+      "kategori": "Edebiyat",
+      "soru": "Suç ve Ceza romanının yazarı kimdir?",
+      "cevap": "Dostoyevski"
+    },
+    {
+      "kategori": "Edebiyat",
+      "soru": "İnce Memed adlı romanın yazarı kimdir?",
+      "cevap": "Yaşar Kemal"
+    },
+    {
+      "kategori": "Edebiyat",
+      "soru": "Hamlet eserinin yazarı kimdir?",
+      "cevap": "William Shakespeare"
+    },
+    {
+      "kategori": "Edebiyat",
+      "soru": "Sefiller romanının yazarı kimdir?",
+      "cevap": "Victor Hugo"
+    },
+    {
+      "kategori": "Edebiyat",
+      "soru": "Saatleri Ayarlama Enstitüsü adlı eseri kim yazdı?",
+      "cevap": "Ahmet Hamdi Tanpınar"
+    },
+    {
+      "kategori": "Spor",
+      "soru": "FIFA Dünya Kupası en çok hangi ülke tarafından kazanıldı?",
+      "cevap": "Brezilya"
+    },
+    {
+      "kategori": "Spor",
+      "soru": "NBA nedir?",
+      "cevap": "Amerikan Basketbol Ligi"
+    },
+    {
+      "kategori": "Spor",
+      "soru": "Olimpiyat oyunları kaç yılda bir düzenlenir?",
+      "cevap": "4"
+    },
+    {
+      "kategori": "Spor",
+      "soru": "Ronaldo hangi ülkedendir?",
+      "cevap": "Portekiz"
+    },
+    {
+      "kategori": "Spor",
+      "soru": "Teniste kullanılan puanlama sistemi nedir?",
+      "cevap": "Love, 15, 30, 40, game"
+    },
+    {
+      "kategori": "Müzik",
+      "soru": "Bohemian Rhapsody şarkısını hangi grup seslendirdi?",
+      "cevap": "Queen"
+    },
+    {
+      "kategori": "Müzik",
+      "soru": "Türk Sanat Müziği'nin büyük bestekârlarından biri kimdir?",
+      "cevap": "Hacı Arif Bey"
+    },
+    {
+      "kategori": "Müzik",
+      "soru": "Pop müziğin kralı olarak anılan sanatçı kimdir?",
+      "cevap": "Michael Jackson"
+    },
+    {
+      "kategori": "Müzik",
+      "soru": "Vivaldi'nin meşhur eseri hangisidir?",
+      "cevap": "Dört Mevsim"
+    },
+    {
+      "kategori": "Müzik",
+      "soru": "Rap müziğin öncülerinden biri kimdir?",
+      "cevap": "Tupac"
+    },
+    {
+      "kategori": "Sinema",
+      "soru": "Titanic filminin yönetmeni kimdir?",
+      "cevap": "James Cameron"
+    },
+    {
+      "kategori": "Sinema",
+      "soru": "Oscar ödülleri hangi alanda verilir?",
+      "cevap": "Sinema"
+    },
+    {
+      "kategori": "Sinema",
+      "soru": "Yüzüklerin Efendisi filminde Frodo'yu kim canlandırdı?",
+      "cevap": "Elijah Wood"
+    },
+    {
+      "kategori": "Sinema",
+      "soru": "En çok gişe yapan film hangisidir? (2023 itibariyle)",
+      "cevap": "Avatar"
+    },
+    {
+      "kategori": "Sinema",
+      "soru": "Inception filminin başrol oyuncusu kimdir?",
+      "cevap": "Leonardo DiCaprio"
+    },
+    {
+      "kategori": "Teknoloji",
+      "soru": "Apple şirketinin kurucularından biri kimdir?",
+      "cevap": "Steve Jobs"
+    },
+    {
+      "kategori": "Teknoloji",
+      "soru": "İlk programlanabilir bilgisayarın adı nedir?",
+      "cevap": "ENIAC"
+    },
+    {
+      "kategori": "Teknoloji",
+      "soru": "Google hangi yıl kuruldu?",
+      "cevap": "1998"
+    },
+    {
+      "kategori": "Teknoloji",
+      "soru": "En çok kullanılan işletim sistemi hangisidir?",
+      "cevap": "Windows"
+    },
+    {
+      "kategori": "Teknoloji",
+      "soru": "YouTube hangi yıl kuruldu?",
+      "cevap": "2005"
+    }
+  ]
+  
