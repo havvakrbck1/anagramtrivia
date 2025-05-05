@@ -1,0 +1,1 @@
+kullanıcıya bir yarışma sunuyor.
