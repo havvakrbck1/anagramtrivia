@@ -1,37 +1,22 @@
-# 🧩 Anagram Trivia
 
-Bu Python tabanlı oyun, kullanıcılara anagram çözme ve kelime tahmini yapma imkanı sunar. Eğlenceli ve öğretici bir şekilde, harflerin karıştırılması ile doğru kelimeleri bulmaya çalışırsınız.
+```markdown
+# Anagram Game
 
-## 🎮 Özellikler
-- Anagramlar verilir, doğru kelimeyi tahmin etmek için çaba sarf edersiniz.
-- Puanlama sistemi ile daha fazla doğru tahmin yapmak için yarışabilirsiniz.
-- Zaman sınırlı yarışmalar eklenebilir.
-- Basit ve kullanıcı dostu bir terminal tabanlı arayüz.
+A command-line game where users guess the original word from its anagram.
 
-## 🚀 Kullanılan Teknolojiler
-- Python
-- random (rastgele anagram oluşturma)
-- time (zaman sınırlı görevler)
+## Features
+- Random word selection
+- Score tracking
+- Hint system
 
-## ⚙️ Kurulum
+## Technologies Used
+- Python 3
 
-1. Projeyi klonlayın:
+## Installation
 
-    ```bash
-    git clone https://github.com/havvakrbck1/anagramtrivia.git
-    cd anagramtrivia
-    ```
-
-2. Gerekli Python kütüphanelerini yükleyin:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Oyunu başlatın:
-
-    ```bash
-    python anagramtrivia.py
-    ```
+```bash
+git clone https://github.com/havvakrbck1/anagram-game.git
+cd anagram-game
+python game.py
 
 
